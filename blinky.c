@@ -1,5 +1,5 @@
 /*
-   Blink LED connected to GPIO2 example
+   Blink LED connected to GPIO2 and write some data to UART
 */
 #include "ets_sys.h"
 #include "user_interface.h"
